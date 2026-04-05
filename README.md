@@ -50,9 +50,3 @@ sentiment_analysis_project/
 
 
 
-
-Pull requests are welcome. For major changes, open an issue first.
-
----
-
-*Built with ❤️ as a portfolio NLP project.*
